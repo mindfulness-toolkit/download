@@ -2,6 +2,6 @@
 Mindfulness Toolkit Download
 
 Download the HTML files
-Copy the HTML source code
-Paste into your intranet, extranet, or public website
+Copy the HTML
+Paste the HTML into your intranet, extranet, or public website's text eitor
 
